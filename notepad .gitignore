@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+instance/
+*.pyc
+.env
+venv/
+ml/models/
+
+# React
+dating-frontend/node_modules/
+dating-frontend/dist/
+dating-frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
